@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Machine Learning, Flutter, React native**
 
-- 🤝 I’m looking for help with **Summer 2023 Internship**
+- 🤝 I’m looking for help with **January 2024 Full-time Job**
 
 - 💬 Ask me about **React, javascript, HTML, CSS, C++**
 
